@@ -3,9 +3,12 @@ class Solution {
         int n = heights.length;
         int [] expected = new int[n];
 
-        for(int i=0;i<n;i++){
-            expected[i]=heights[i];
-        }
+        // for(int i=0;i<n;i++){
+        //     expected[i]=heights[i];
+        // }
+
+        //copy of array
+        expected = Arrays.copyOf(heights,n);
 
         Arrays.sort(expected);
         int count=0;
