@@ -8,13 +8,13 @@ public:
         }
 
         for(int i=0;i<arr2.size();i++){
-            if(mp.find(arr2[i])!=mp.end()){
+            
                 int freq = mp[arr2[i]];
                 for(int j=0;j<freq;j++){
                     ans.push_back(arr2[i]);
                 }
                 mp[arr2[i]]=0;
-            }
+            
         }
         for(auto &x:mp){
             if(x.second>0){
