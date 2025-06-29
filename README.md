@@ -54,3 +54,14 @@ LeetCode ques
 | ------- |
 | [1137-height-checker](https://github.com/arjunsolanki2612/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1217-relative-sort-array) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+<!---LeetCode Topics End-->
