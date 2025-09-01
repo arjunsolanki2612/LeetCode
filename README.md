@@ -59,6 +59,7 @@ LeetCode ques
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -75,8 +76,13 @@ LeetCode ques
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
