@@ -61,6 +61,7 @@ LeetCode ques
 | ------- |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -90,6 +91,7 @@ LeetCode ques
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
