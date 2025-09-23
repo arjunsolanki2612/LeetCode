@@ -60,6 +60,7 @@ LeetCode ques
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +84,7 @@ LeetCode ques
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -91,9 +93,18 @@ LeetCode ques
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
