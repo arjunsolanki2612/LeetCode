@@ -85,6 +85,7 @@ LeetCode ques
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
 ## Union Find
 |  |
 | ------- |
@@ -119,4 +120,8 @@ LeetCode ques
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arjunsolanki2612/LeetCode/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
