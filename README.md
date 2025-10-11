@@ -60,6 +60,7 @@ LeetCode ques
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -116,6 +117,7 @@ LeetCode ques
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/arjunsolanki2612/LeetCode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -125,9 +127,18 @@ LeetCode ques
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
