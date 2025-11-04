@@ -67,6 +67,7 @@ LeetCode ques
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -131,6 +132,7 @@ LeetCode ques
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +145,8 @@ LeetCode ques
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
