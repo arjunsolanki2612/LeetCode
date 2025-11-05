@@ -61,6 +61,7 @@ LeetCode ques
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
@@ -131,6 +132,7 @@ LeetCode ques
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
@@ -151,5 +153,6 @@ LeetCode ques
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
