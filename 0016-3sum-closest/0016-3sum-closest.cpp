@@ -15,11 +15,7 @@ public:
 
             while(j<k){
                 int sum = ele+nums[j]+nums[k];
-                if(sum==target){
-                    
-                    return sum;
-
-                }else if(sum<target){
+                if(sum<target){
                     int distance = abs(target-sum);
                     if(distance<prevDis){
                         prevDis = distance;
