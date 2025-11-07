@@ -65,6 +65,7 @@ LeetCode ques
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/arjunsolanki2612/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
