@@ -70,6 +70,7 @@ LeetCode ques
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -127,6 +128,7 @@ LeetCode ques
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/arjunsolanki2612/LeetCode/tree/master/0062-unique-paths) |
+| [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -146,6 +148,7 @@ LeetCode ques
 | ------- |
 | [0011-container-with-most-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -160,5 +163,6 @@ LeetCode ques
 | [0015-3sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
