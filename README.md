@@ -73,6 +73,7 @@ LeetCode ques
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -143,6 +144,7 @@ LeetCode ques
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -165,4 +167,8 @@ LeetCode ques
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
