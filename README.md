@@ -66,6 +66,7 @@ LeetCode ques
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arjunsolanki2612/LeetCode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/arjunsolanki2612/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/arjunsolanki2612/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -142,6 +143,7 @@ LeetCode ques
 | [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/arjunsolanki2612/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
@@ -165,6 +167,7 @@ LeetCode ques
 | [0015-3sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/arjunsolanki2612/LeetCode/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Line Sweep
