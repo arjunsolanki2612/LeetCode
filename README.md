@@ -71,6 +71,7 @@ LeetCode ques
 | [0079-word-search](https://github.com/arjunsolanki2612/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/arjunsolanki2612/LeetCode/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -82,11 +83,13 @@ LeetCode ques
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -189,4 +192,8 @@ LeetCode ques
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
