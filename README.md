@@ -76,6 +76,7 @@ LeetCode ques
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -85,11 +86,13 @@ LeetCode ques
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsolanki2612/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -196,4 +199,5 @@ LeetCode ques
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
