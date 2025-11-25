@@ -76,6 +76,7 @@ LeetCode ques
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
@@ -140,6 +141,7 @@ LeetCode ques
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/arjunsolanki2612/LeetCode/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -154,6 +156,7 @@ LeetCode ques
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arjunsolanki2612/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0125-valid-palindrome) |
+| [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
 ## Greedy
@@ -200,4 +203,8 @@ LeetCode ques
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
