@@ -8,10 +8,13 @@ class Solution {
             }
 
             if(zeroes>k){
+                while(zeroes>k){
+
                 if(nums[l]==0){
                     zeroes--;
                 }
                 l=l+1;
+                }
             }else{
 
             len = Math.max(len,r-l+1);
