@@ -78,6 +78,7 @@ LeetCode ques
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/arjunsolanki2612/LeetCode/tree/master/1028-interval-list-intersections) |
@@ -89,6 +90,7 @@ LeetCode ques
 | [0209-minimum-size-subarray-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/arjunsolanki2612/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -105,6 +107,7 @@ LeetCode ques
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -211,4 +214,8 @@ LeetCode ques
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
