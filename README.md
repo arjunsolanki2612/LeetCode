@@ -76,6 +76,7 @@ LeetCode ques
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
