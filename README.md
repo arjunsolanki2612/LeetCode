@@ -76,6 +76,7 @@ LeetCode ques
 | [0216-combination-sum-iii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/arjunsolanki2612/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -110,6 +111,7 @@ LeetCode ques
 | [0076-minimum-window-substring](https://github.com/arjunsolanki2612/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/arjunsolanki2612/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/arjunsolanki2612/LeetCode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/arjunsolanki2612/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arjunsolanki2612/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
@@ -198,6 +200,7 @@ LeetCode ques
 | [0179-largest-number](https://github.com/arjunsolanki2612/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Line Sweep
 |  |
