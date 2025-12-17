@@ -64,6 +64,7 @@ LeetCode ques
 | [0016-3sum-closest](https://github.com/arjunsolanki2612/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunsolanki2612/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/arjunsolanki2612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/arjunsolanki2612/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/arjunsolanki2612/LeetCode/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ LeetCode ques
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arjunsolanki2612/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/arjunsolanki2612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/arjunsolanki2612/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/arjunsolanki2612/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/arjunsolanki2612/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -212,6 +214,7 @@ LeetCode ques
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arjunsolanki2612/LeetCode/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/arjunsolanki2612/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
